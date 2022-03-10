@@ -1,4 +1,4 @@
-# Welcome to Haq Nawaz new dbt project!
+# Welcome to Haq Nawaz dbt project!
 
 ### Week1 Self Assesment Questions: 
 Answer below questions using the data available using SQL queries:
