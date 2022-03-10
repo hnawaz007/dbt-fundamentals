@@ -3,19 +3,19 @@
 ### Week1 Assesments: 
 Answer below questions using the data available using SQL queries:
 
-- Were you able to create schema.yml files with model names and descriptions? 
+- Were you able to create schema.yml files with model names and descriptions? \
   Yes
   
--  Were you able to run your dbt models against the data warehouse? 
+-  Were you able to run your dbt models against the data warehouse? \
     Yes
 
-- Could you run the queries to answer key questions from the project instructions? 
+- Could you run the queries to answer key questions from the project instructions? \
   Yes
 
-- What was most challenging/surprising in completing this week’s project? 
+- What was most challenging/surprising in completing this week’s project? \
   Getting use to yml driven configuration
 
--  Is there anywhere you are still stuck or confused? Or Is there a particular part of the project where you want focused feedback from your reviewers?
+-  Is there anywhere you are still stuck or confused? Or Is there a particular part of the project where you want focused feedback from your reviewers?\
   NA
 
 
