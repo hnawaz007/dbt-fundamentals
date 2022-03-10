@@ -22,4 +22,4 @@ Answer below questions using the data available using SQL queries:
 
 # Technology Stack
 
-dbt, postgres, sql
+dbt, gitpod, postgres, sql
