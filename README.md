@@ -1,6 +1,6 @@
 # Welcome to Haq Nawaz new dbt project!
 
-### Week1 Assesments: 
+### Week1 Self Assesments Questions: 
 Answer below questions using the data available using SQL queries:
 
 - Were you able to create schema.yml files with model names and descriptions? \
