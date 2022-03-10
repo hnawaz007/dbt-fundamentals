@@ -1,11 +1,11 @@
-Welcome to your new dbt project!
+### Welcome to your new dbt project!
 
-Using the starter project
+### Using the starter project
 Try running the following commands:
-
 dbt run
 dbt test
-Resources:
+
+### Resources:
 Learn more about dbt in the docs
 Check out Discourse for commonly asked questions and answers
 Join the dbt community to learn from other analytics engineers
