@@ -3,16 +3,20 @@
 ### Week1 Assesments: 
 Answer below questions using the data available using SQL queries:
 
-- How many users do we have?
- - 130
+- Were you able to create schema.yml files with model names and descriptions? 
+ - Yes
   
-- On average, how many orders do we receive per hour?
+-  Were you able to run your dbt models against the data warehouse? 
+- Yes
+- 
+- Could you run the queries to answer key questions from the project instructions? 
+- Yes
 
-- On average, how long does an order take from being placed to being delivered?
+- What was most challenging/surprising in completing this week’s project? 
+- Getting use to yml driven configuration
 
-- How many users have only made one purchase? Two purchases? Three+ purchases?
-
-- On average, how many unique sessions do we have per hour?
+-  Is there anywhere you are still stuck or confused? Or Is there a particular part of the project where you want focused feedback from your reviewers?
+-  NA
 
 
 
