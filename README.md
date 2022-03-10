@@ -4,7 +4,7 @@
 Answer below questions using the data available using SQL queries:
 
 - How many users do we have?
-  130
+ - 130
   
 - On average, how many orders do we receive per hour?
 
