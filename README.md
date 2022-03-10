@@ -1,15 +1,20 @@
-Welcome to your new dbt project!
+# Welcome to Haq Nawaz new dbt project!
 
-### Using the starter project
+### Week1 Assesments: 
+Answer below questions using the data available using SQL queries:
 
-Try running the following commands:
-- dbt run
-- dbt test
+How many users do we have?
+
+On average, how many orders do we receive per hour?
+
+On average, how long does an order take from being placed to being delivered?
+
+How many users have only made one purchase? Two purchases? Three+ purchases?
+
+On average, how many unique sessions do we have per hour?
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+# Technology Stack
+
+dbt, postgres, sql
